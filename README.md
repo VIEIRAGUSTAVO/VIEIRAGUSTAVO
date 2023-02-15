@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Vieira
 - 🔭 Atualmente trabalho como projetista junior
-- 🌱 Estudando Python, js, nod, HTML, react, entre outros 
+- 🌱 No momento estudando  javaScript, Java e criação de aplicativos no android Studio.
 - 😄 Pronouns: ele/dele
 - 📬 Contato: vieira.gustavo.dev@gmail.com
   
