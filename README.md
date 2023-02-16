@@ -1,6 +1,6 @@
 ### Hello! I'm Gustavo Vieira
 - 🔭 I’m currently working as junior designer
-- 🌱 No momento estudando  javaScript, Java e criação de aplicativos no android Studio.
+- 🌱  I’m currently learning javaScript, Java, android Studio.
 - 📬 Professional contact: vieira.gustavo.dev@gmail.com
   
   ##
