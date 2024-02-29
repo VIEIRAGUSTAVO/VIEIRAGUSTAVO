@@ -1,6 +1,6 @@
 ### Hello! I'm Gustavo Vieira
 - 🔭 I’m currently working as junior designer
-- 🌱  I’m currently learning javaScript, Java, android Studio.
+- 🌱  I’m currently learning javaScript, Java, android Studio and IA.
 - 📬 Professional contact: vieira.gustavo.dev@gmail.com
   
   ##
