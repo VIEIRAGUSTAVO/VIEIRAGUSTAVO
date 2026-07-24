@@ -36,4 +36,9 @@
  
   <div> 
   <a href="https://www.linkedin.com/in/gustavo-vieira-9237ab223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
+ <picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIEIRAGUSTAVO/VIEIRAGUSTAVO/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIEIRAGUSTAVO/VIEIRAGUSTAVO/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VIEIRAGUSTAVO/VIEIRAGUSTAVO/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
