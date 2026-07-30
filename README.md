@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:2563EB,50:7C3AED,100:A855F7&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Infrastructure+Engineer;Full+Stack+Developer;Linux+%7C+Docker+%7C+VMware;React+%7C+Node.js+%7C+PostgreSQL;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Computer+Engineer;Full+Stack+Developer;Linux+%7C+Docker+%7C+VMware;React+%7C+Node.js+%7C+PostgreSQL;Always+Learning+New+Technologies"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 # 👨‍💻 Gustavo Vieira
 
-### Infrastructure Engineer • Full Stack Developer
+### Computer Engineer • Full Stack Developer
 <img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 🎓 **Computer Engineer**
