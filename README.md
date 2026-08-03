@@ -69,14 +69,6 @@
 
 # 🚀 Featured Projects
 
-> ## 🌐 AGF IT Management System *(Em desenvolvimento)*
->
-> Sistema web desenvolvido para otimizar processos internos da empresa, com foco em gestão, organização e automação.
->
-> **Stack:** React • Node.js • TypeScript • PostgreSQL
-
----
-
 > ## 📍 ESP32 Fleet Tracking
 >
 > Projeto de rastreamento de empilhadeiras utilizando **ESP32**, GPS e Bluetooth para monitoramento em tempo real e localização indoor/outdoor.
